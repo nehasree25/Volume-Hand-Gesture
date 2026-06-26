@@ -41,7 +41,7 @@ pip install opencv-python mediapipe numpy pycaw comtypes
 Gesture-Volume/
 │
 ├── main.py          # Main application
-├── HandTracker.py   # Hand detection module
+├── handDetector.py   # Hand detection module
 └── README.md
 ```
 
